@@ -5,7 +5,7 @@ import Layouts from "../Layouts";
 const routes = createBrowserRouter([
 
     {
-        path: "/todo-list",
+        path: "/",
         element: <Layouts />,
         children: [
             {
